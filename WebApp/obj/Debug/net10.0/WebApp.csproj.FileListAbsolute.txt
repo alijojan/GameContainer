@@ -89,3 +89,4 @@ C:\Users\alijo\Desktop\GameContainer\WebApp\obj\Debug\net10.0\compressed\mnsny7i
 C:\Users\alijo\Desktop\GameContainer\WebApp\obj\Debug\net10.0\compressed\2g1k59k37z-{0}-gualwoks2e-gualwoks2e.gz
 C:\Users\alijo\Desktop\GameContainer\WebApp\obj\Debug\net10.0\compressed\g2zqeox3wz-{0}-u5mvf4bnza-u5mvf4bnza.gz
 C:\Users\alijo\Desktop\GameContainer\WebApp\obj\Debug\net10.0\compressed\w2uw0ejmgi-{0}-fd1rxjex5o-fd1rxjex5o.gz
+C:\Users\alijo\Desktop\GameContainer\WebApp\obj\Debug\net10.0\WebApp.sourcelink.json
